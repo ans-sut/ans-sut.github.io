@@ -1,7 +1,7 @@
-Hello World!!!<center><b>Security and Privacy in Machine Learning</b></center>
+<center><b>Advanced Network Security</b></center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
-<center>Spring 2023</center>
+<center>Fall 2023</center>
 
 
 &nbsp;&nbsp;&nbsp;
