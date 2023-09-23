@@ -50,8 +50,9 @@ _Welcome_ to the Advanced Network Security course! The primary objective of this
 
 The main references for the course are many research papers in top-tier conferences and journals in computer security (SP, CCS, Usenix Security, EuroSP, TIFS, and TDSC) and the following textbooks:
 
--   [Thinking Security: Stopping Next Year's Hackers](http://www.informit.com/store/thinking-security-stopping-next-years-hackers-9780134277547), Steven M. Bellovin, Addison-Wesley, 2016
--   [Network Security Essentials](http://williamstallings.com/NetworkSecurity/) by William Stallings
+-   [Thinking Security: Stopping Next Year's Hackers](http://www.informit.com/store/thinking-security-stopping-next-years-hackers-9780134277547), Steven M. Bellovin, Addison-Wesley, 2016.
+-   [Cryptography and Network Security: Principles and Practice, William Stallings, Pearson, 2022.](http://williamstallings.com/Cryptography/)
+-   [Network security essentials: applications and standards, William Stallings, Pearson, 2016.](http://williamstallings.com/NetworkSecurity/) 
 
 
 
