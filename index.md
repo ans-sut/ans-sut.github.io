@@ -14,7 +14,7 @@ _Welcome_ to the Advanced Network Security course! The primary objective of this
 **Course Logistics**
 
    * **Time:** Sun. & Tue. 15:00 - 16:30
-   * **Location:** CE- & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
+   * **Location:** CE-204 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
    * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/14903/) forum. 
      * All official announcements and communication will happen over Quera.
      * For external inquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at amsadeghzadeh_at_gmail.com
