@@ -52,7 +52,6 @@ The main references for the course are many research papers in top-tier conferen
 
 -   [Thinking Security: Stopping Next Year's Hackers](http://www.informit.com/store/thinking-security-stopping-next-years-hackers-9780134277547), Steven Bellovin, Addison-Wesley, 2016.
 -   [Cryptography and Network Security: Principles and Practice](http://williamstallings.com/Cryptography/), William Stallings, Pearson, 2022.
--   [Network security essentials: applications and standards](http://williamstallings.com/NetworkSecurity/), William Stallings, Pearson, 2016.
 -   [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), James Kurose, Keith Ross, Pearson, 2016.   
 
 
