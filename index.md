@@ -1,4 +1,4 @@
-)<center><b>Advanced Network Security</b></center>
+<center><b>Advanced Network Security</b></center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
 <center>Fall 2023</center>
