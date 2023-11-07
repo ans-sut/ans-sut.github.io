@@ -1,4 +1,4 @@
-![image](https://github.com/ans-sut/ans-sut.github.io/assets/145846604/3015138f-cd6d-4dbf-8683-742b7c6166aa)<center><b>Advanced Network Security</b></center>
+)<center><b>Advanced Network Security</b></center>
 <center>Sharif University of Technology, Iran</center>
 <center>CE Department</center>
 <center>Fall 2023</center>
